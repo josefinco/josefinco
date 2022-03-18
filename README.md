@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working at [365ti](https://www.365ti.com.br/)
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning .Net and C# 
 - 📫 How to reach me: [José Finco](mailto:josefinco_@ahotmail.com?subject=[GitHub]%20Contact%20Git%20Mail)
 - ⚡ Fun fact: yes, i solve rubik's cube :game_die:
 
